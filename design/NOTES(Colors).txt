@@ -1,0 +1,13 @@
+This is the file for colors:
+Hex values for all colors used in the Design are given below:
+
+Color-name:Hex value
+Note:Color Names are approximate values(Use HEX Value for exact reference)
+
+Black:#000000
+White:#FFFFFF
+Mako:#3F464C
+Curious Blue:#2186C4
+Malibu:#7ECEFC
+Sazerac:#FFF6E5
+Salmon:#FF7F66

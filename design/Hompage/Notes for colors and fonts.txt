@@ -1,0 +1,5 @@
+Welcome text:
+color:#FFF6E5  Font: Coffee Break(Included in Fonts folder)
+
+Login Text:
+color:#FFF6E5  Font:Impact(Included in Fonts folder)

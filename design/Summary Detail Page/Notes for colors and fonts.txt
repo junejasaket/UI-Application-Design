@@ -1,0 +1,8 @@
+Summary TITLE Text:
+color:#FFFCFE  Font:Impact(Included in Fonts folder)
+
+Goal and currect text:
+color:#000000  Font:Geo Sans Light(Included in Fonts folder)
+
+Banner color:#2186C4
+

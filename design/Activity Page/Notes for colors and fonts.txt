@@ -1,0 +1,9 @@
+Activity TITLE Text:
+color:#FFFCFE  Font:Impact(Included in Fonts folder)
+Activities Text(CODE,LIFT,STUDY):
+color:#000000  Font:Georgia(Included in Fonts folder)
+
+Banner color:#2186C4
+Footer color:#000000
+percentage bar color: complete circle:#7ECEFC
+                      percentage done circle:#2186C4

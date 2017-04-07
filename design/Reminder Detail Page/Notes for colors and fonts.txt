@@ -1,0 +1,11 @@
+Reminder TITLE Text:
+color:#FFFCFE  Font:Impact(Included in Fonts folder)
+Activity CODE:
+color:#000000  Font:Georgia(Included in Fonts folder)
+Days text:
+color:#3F464C  Font:Georgia(Included in Fonts folder)
+
+Banner color:#2186C4
+Footer color, Banner behind CODE:#000000
+
+time stamp color and background of days: #FFFCFE

@@ -1,0 +1,5 @@
+Title Text:
+color:#000000  Font: League Gothic(Included in Fonts folder)
+
+Login Text, Sign up Text:
+color:#000000  Font:Georgia(Included in Fonts folder)
